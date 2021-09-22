@@ -80,5 +80,3 @@ module.exports.editUser = (obj) => {
     }
     return result;
 }
-
-
